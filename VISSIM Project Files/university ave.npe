@@ -1,0 +1,22 @@
+
+Network Performance
+
+File:     c:\users\cxmz_\desktop\vissim models\新建文件夹\scenario 3\university ave.inp
+Comment:  
+Date:     2008年3月9日 17:35:36
+
+Simulation time from 0.0 to 1057.6.
+
+ Parameter                                                             ;          Value;
+ Average delay time per vehicle [s], Vehicle Class Bus(AV)             ;          0.000;
+ Average number of stops per vehicles, Vehicle Class Bus(AV)           ;          0.000;
+ Average speed [km/h], Vehicle Class Bus(AV)                           ;          0.000;
+ Total travel time [h], Vehicle Class Bus(AV)                          ;          0.000;
+ Average delay time per vehicle [s], Vehicle Class Car(HV)             ;        105.966;
+ Average number of stops per vehicles, Vehicle Class Car(HV)           ;          7.108;
+ Total travel time [h], Vehicle Class Car(HV)                          ;         36.578;
+ Average delay time per vehicle [s], Vehicle Class Car(AV)             ;          0.000;
+ Average number of stops per vehicles, Vehicle Class Car(AV)           ;          0.000;
+ Average speed [km/h], Vehicle Class Car(AV)                           ;          0.000;
+ Total travel time [h], Vehicle Class Car(AV)                          ;          0.000;
+ Average speed [km/h], Vehicle Class Car(HV)                           ;         24.907;

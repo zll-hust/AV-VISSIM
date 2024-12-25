@@ -1,0 +1,6 @@
+Exception access violation
+Code : 0xc0000005
+Flags : 0
+Address : 0x4ed416
+File: .\netzwin.cpp
+Line: 1165

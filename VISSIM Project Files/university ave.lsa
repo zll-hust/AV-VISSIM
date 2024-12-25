@@ -1,0 +1,60 @@
+
+Signal Changes Protocol
+
+File:     c:\users\cxmz_\desktop\vissim models\university ave.inp
+Comment:  
+Date:     2008Äê1ÔÂ23ÈÕ 17:45:48
+
+SC 1  SGroup   1  Link     11  Lane  2  At   28.2
+SC 1  SGroup   1  Link     11  Lane  1  At   28.2
+SC 1  SGroup   1  Link      4  Lane  2  At  259.0
+SC 1  SGroup   1  Link      4  Lane  1  At  259.0
+SC 1  SGroup   1  Link      4  Lane  3  At  258.9
+SC 1  SGroup   1  Link      3  Lane  3  At 1337.1
+SC 1  SGroup   1  Link      3  Lane  2  At 1337.1
+SC 1  SGroup   1  Link      3  Lane  1  At 1337.3
+SC 1  SGroup   1  Link      1  Lane  1  At   17.7
+SC 1  SGroup   1  Link      7  Lane  1  At  140.7
+SC 1  SGroup   1  Link      7  Lane  3  At  140.7
+SC 1  SGroup   1  Link      3  Lane  3  At   91.6
+SC 1  SGroup   1  Link      3  Lane  2  At   91.5
+SC 1  SGroup   1  Link      3  Lane  1  At   91.5
+SC 1  SGroup   1  Link      6  Lane  2  At  131.3
+SC 1  SGroup   1  Link      6  Lane  1  At  131.3
+SC 1  SGroup   1  Link      3  Lane  3  At  252.3
+SC 1  SGroup   1  Link      3  Lane  2  At  252.2
+SC 1  SGroup   1  Link      3  Lane  1  At  252.2
+SC 1  SGroup   1  Link      4  Lane  1  At 1350.2
+SC 1  SGroup   1  Link      4  Lane  2  At 1350.3
+SC 1  SGroup   1  Link      4  Lane  3  At 1350.3
+SC 1  SGroup   1  Link      3  Lane  1  At  553.8
+SC 1  SGroup   1  Link      3  Lane  2  At  553.9
+SC 1  SGroup   1  Link      3  Lane  3  At  553.9
+SC 1  SGroup   1  Link      4  Lane  3  At 1034.1
+SC 1  SGroup   1  Link      4  Lane  1  At 1034.1
+SC 1  SGroup   1  Link      4  Lane  2  At 1034.1
+SC 1  SGroup   1  Link      4  Lane  3  At  866.7
+SC 1  SGroup   1  Link      4  Lane  1  At  866.7
+SC 1  SGroup   1  Link      4  Lane  2  At  866.7
+SC 1  SGroup   1  Link      3  Lane  1  At  717.2
+SC 1  SGroup   1  Link      3  Lane  3  At  717.3
+SC 1  SGroup   1  Link      3  Lane  2  At  717.3
+SC 1  SGroup   1  Link      1  Lane  2  At   17.8
+SC 1  SGroup   1  Link      7  Lane  2  At  140.7
+SC 1  SGroup   2  Link     54  Lane  1  At  241.4
+SC 1  SGroup   2  Link     54  Lane  2  At  241.5
+SC 1  SGroup   2  Link     12  Lane  2  At  138.8
+SC 1  SGroup   2  Link     12  Lane  1  At  138.7
+SC 1  SGroup   2  Link     33  Lane  1  At  453.9
+SC 1  SGroup   2  Link     33  Lane  2  At  453.8
+SC 1  SGroup   2  Link     33  Lane  3  At  453.9
+SC 1  SGroup   3  Link     11  Lane  2  At   27.7
+SC 1  SGroup   3  Link      7  Lane  3  At  139.5
+SC 1  SGroup   3  Link      6  Lane  2  At  131.0
+SC 1  SGroup   3  Link      4  Lane  3  At 1033.9
+SC 1  SGroup   3  Link      4  Lane  3  At  866.1
+SC 1  SGroup   4  Link  10016  Lane  1  At    0.9
+SC 1  SGroup   4  Link  10106  Lane  1  At    0.7
+SC 1  SGroup   4  Link     33  Lane  3  At  453.3
+SC 1  SGroup   4  Link  10105  Lane  1  At    1.5
+

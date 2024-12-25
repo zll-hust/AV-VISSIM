@@ -1,0 +1,34 @@
+
+Data Collection (Compiled Data)
+
+File:     c:\users\cxmz_\desktop\vissim models\test 8 (with signal)\university ave.inp
+Comment:  
+Date:     2008Äê2ÔÂ1ÈÕ 23:03:32
+
+Measurement     1: Data Collection Point(s) 1, 2, 3, 4, 5, 6
+
+Measur.: Data Collection Number
+from: Start time of the Aggregation interval
+to: End time of the Aggregation interval
+Number Veh: Number of Vehicles
+
+Measur.;from;to;Number Veh;Number Veh
+       ;    ;  ;;
+       ;    ;  ;Car;Bus
+1;0;15;0;0
+1;15;30;0;0
+1;30;45;0;0
+1;45;60;0;0
+1;60;75;0;0
+1;75;90;0;0
+1;90;105;0;0
+1;105;120;0;0
+1;120;135;1;0
+1;135;150;0;0
+1;150;165;1;0
+1;165;180;1;0
+1;180;195;0;0
+1;195;210;2;0
+1;210;225;1;0
+1;225;240;0;0
+1;240;255;4;0

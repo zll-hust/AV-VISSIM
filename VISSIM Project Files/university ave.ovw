@@ -1,0 +1,23 @@
+
+Table of bus/tram waiting times
+
+File:     c:\users\cxmz_\desktop\vissim models\test 8 (with signal)\university ave.inp
+Comment:  
+Date:     2008Äê2ÔÂ1ÈÕ 23:03:32
+
+Time VehNo Line  Link         At Duration
+    6     3     2       1    0.04     5
+   25     3     2       1    3.34    14
+   31     4     1       4   49.00    21
+   33     5     1       4   41.00    27
+   58     5     1       4   49.00    19
+  121     3     2       1   16.30    63
+  121     1     2       3   80.81    27
+  121     2     1       4  866.22    21
+  121     4     1       4  254.75    35
+  121     5     1       4  241.71    12
+  237     3     2       3   80.72    37
+  237     4     1       4  866.14    39
+  237     5     1       4  865.62    58
+  237     2     1       6  127.93    55
+  237     1     2       3  703.95    54
