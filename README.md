@@ -1,10 +1,10 @@
-# Evaluating Equity Impacts of Automated Vehicles in Public Transit and Automobile: A Case Study in Madison
+# Evaluating Equity Impacts of Connected and Automated Vehicles: A Model Integrating Public Transit and Automobiles
 
 ## Introduction
 
 This repo provides the source code and data for the following paper:
 
-"Evaluating Equity Impacts of Automated Vehicles in Public Transit and Automobile: A Case Study in Madison." (2024)
+"Evaluating Equity Impacts of Connected and Automated Vehicles: A Model Integrating Public Transit and Automobiles." (2024)
 
 
 This study develops a simulation-based framework using PTV VISSIM to evaluate the equity effects of AV deployment on different income groups. High-income individuals are modeled as relying on private automobiles, while low-income individuals depend on AV-enabled public transit. A detailed case study in Madison, Wisconsin, is developed using PTV VISSIM, incorporating precise lane configurations and traffic light settings derived from empirical data. 
