@@ -1,4 +1,4 @@
-# Evaluating Equity Impacts of Connected and Automated Vehicles: A Model Integrating Public Transit and Automobiles
+# Equity Impacts of Connected and Automated Vehicles in Multimodal Urban Transport Networks
 
 ## Introduction
 
