@@ -1,10 +1,10 @@
-# Equity Impacts of Connected and Automated Vehicles in Multimodal Urban Transport Networks
+# Evaluating Impacts of Public Transit and Automobiles During Connected and Automated Vehicle Adoption
 
 ## Introduction
 
 This repo provides the source code and data for the following paper:
 
-"Equity Impacts of Connected and Automated Vehicles in Multimodal Urban Transport Networks." (2025)
+Cai, X., Zhou, H., Ma, C.,  Li, X., & Ran, B. (2025). Evaluating impacts of public transit and automobiles during connected automated vehicle adoption. Journal of Advanced Transportation.
 
 
 This study develops a simulation-based framework using PTV VISSIM to evaluate the equity effects of AV deployment on different income groups. High-income individuals are modeled as relying on private automobiles, while low-income individuals depend on AV-enabled public transit. A detailed case study in Madison, Wisconsin, is developed using PTV VISSIM, incorporating precise lane configurations and traffic light settings derived from empirical data. 
@@ -23,4 +23,4 @@ Developer - Xinmeizi Cai (xcai89@wisc.edu)
 
 Hang Zhou (hzhou364@wisc.edu).
 
-If you have any questions, please feel free to contact CATS Lab in UW-Madison. We're here to help!
+If you have any questions, please feel free to contact the CATS Lab at UW-Madison. We're here to help!
